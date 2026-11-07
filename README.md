@@ -1,16 +1,16 @@
-# AI-Based Smart Healthcare Appointment and Queue Management System
+# Project Tittle: AI-Based Smart Healthcare Appointment and Queue Management System
 
-# Team Information
+# Team Information:
 
-- Team: CSE4104-7B-T09
+- Team Name: CSE4104-7B-T09
 - Section: 7B
-
-### Team Members
-1. Nazat Sultana Misu
+  
+- Team Members:
+1. Nazat Sultana Misu (Team Leader)
    ID: 11230321306
-2. Tasnia Zaman Anni
+2. Tasnia Zaman Anni (Member)
    ID: 11230321308
-3. Khan Navid Zarif
+3. Khan Navid Zarif (Member)
    ID: 11230321402
 
 # Project Description
@@ -37,7 +37,3 @@ appointments, and track their queue progress.
 - Database: PostgreSQL, Supabase
 - AI: Google Gemini API
 - Deployment: Vercel, Render
-
-# Project Status
-
-Initial development and planning.
